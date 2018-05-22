@@ -1,1 +1,1 @@
-# A simple todos app in Reacjs.
+# A simple todos app in Reactjs.
